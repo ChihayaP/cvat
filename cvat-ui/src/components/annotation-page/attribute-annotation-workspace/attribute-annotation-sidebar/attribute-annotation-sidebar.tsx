@@ -372,7 +372,7 @@ function AttributeAnnotationSidebar(props: StateToProps & DispatchToProps): JSX.
             </span>
             <div className='cvat-sidebar-collapse-button-spacer' />
             <div className='attribute-annotations-sidebar-not-found-wrapper'>
-                <Text strong>No objects found</Text>
+                <Text strong>No object found</Text>
             </div>
         </Layout.Sider>
     );
